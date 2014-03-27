@@ -1,0 +1,17 @@
+{
+  "name": "component-bundle-autorequire",
+  "version": "0.0.0",
+  "description": "Autoboot-like behavior for bundles",
+  "keywords": [ "component", "bundle", "autoboot" ],
+  "author": "Stephen Mathieson <me@stephenmathieson.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/component-bundle-autorequire.git"
+  },
+  "main": "index",
+  "bugs": {
+    "url": "https://github.com/stephenmathieson/component-bundle-autorequire/issues"
+  },
+  "homepage": "https://github.com/stephenmathieson/component-bundle-autorequire",
+  "license": "MIT"
+}
